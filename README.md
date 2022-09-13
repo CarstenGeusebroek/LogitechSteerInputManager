@@ -10,12 +10,16 @@ Setup:
   -Call WheelInputManager.Tick() in the update method
   
   -U can now get acces to different inputs from your wheel and paddles:
+  
     Right Paddle: 
       WheelInputManager.throtle
+      
     Middle Paddle: 
       WheelInputManager.brake
+      
     Left Paddle: 
       WheelInputManager.clutch
+      
     Gear:
       Min Gear: WheelInputManager.minGear
       Max Gear: WheelInputManager.maxGear
