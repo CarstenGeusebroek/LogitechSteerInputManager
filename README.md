@@ -1,5 +1,6 @@
 ﻿# LogitechSteerInputManager
 This is a easy way to get inputs from a logitech steering wheel in unity.
+Please at credits if you choose to use it in any commercial way.
 
 Setup:
 
