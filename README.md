@@ -8,7 +8,7 @@ Setup:
 
   -Import the folder into unity
   
-  -Add using EasySteering in your script
+  -Add using EasySteering; in your script
   
   -Call WheelInputManager.Tick() in the update method
   
